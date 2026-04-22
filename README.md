@@ -68,3 +68,17 @@ Meteorologists, disaster response experts, WhatsApp/Twilio developers, African c
   <br><br>
   <sub>Built with <a href="https://mama.oliwoods.ai">MAMA</a> · Powered by <a href="https://cofounder.software">CoFounder</a><br>GPL-3.0 — Fork it. Deploy it. Make an impact.</sub>
 </p>
+
+## Expanded Agents (v2)
+
+| Agent | Role |
+|-------|------|
+| **WeatherIngestion** | Pull from weather APIs (NWS, NOAA, local met services) |
+| **AlertGeneration** | Context-aware alert creation with severity and action items |
+| **WhatsAppDelivery** | Deliver alerts via Twilio WhatsApp to community leaders |
+| **GovernmentDashboard** | County coordinator dashboard for monitoring and response |
+| **SupplyTracker** | Pre-position supplies (water, tarps, generators) based on predicted impact zones. Track inventory across warehouses and distribution points. |
+| **VolunteerCoordinator** | Match volunteers to needs by skill (medical, logistics, translation), proximity, and availability. Manage shifts. |
+| **RecoveryPlanner** | Post-disaster: damage assessment, FEMA application assistance, temporary housing, insurance claim guidance, rebuilding timeline |
+
+**7 agents. Human-in-the-loop approval on all alerts. Free forever.**
