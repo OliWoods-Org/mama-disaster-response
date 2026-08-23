@@ -6,12 +6,23 @@
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-AGPL-3.0-blue.svg" alt="License"></a>
   <img src="https://img.shields.io/badge/cost-Free_Forever-green" alt="Free">
-  <img src="https://img.shields.io/badge/status-Active-brightgreen" alt="Active">
+  <img src="https://img.shields.io/badge/status-Prototype-yellow" alt="Prototype">
   <a href="https://mama.oliwoods.ai"><img src="https://img.shields.io/badge/Built_with-MAMA-8b5cf6" alt="Built with MAMA"></a>
   <a href="https://mama.oliwoods.ai/foundation"><img src="https://img.shields.io/badge/OliWoods-Foundation-10b981" alt="OliWoods Foundation"></a>
 </p>
 
 ---
+
+---
+
+## Status / Honesty
+
+This repository is a **prototype library** under the Mama Foundation (Scheme C). It is **not** production clinical software, **not** HIPAA certified, and **not** cleared for care delivery.
+
+- Maturity: **Prototype**
+- Portal path: [https://mama.oliwoods.ai/foundation/disaster-response](https://mama.oliwoods.ai/foundation/disaster-response)
+- See [MAMA-MSTR#959](https://github.com/OliWoods-Org/MAMA-MSTR/issues/959)
+
 
 > *"Less than 40% of people in Africa have access to early warning systems for extreme weather. In 2023 alone, floods in East and West Africa killed thousands of people who had no advance warning. The technology to save them exists. It just wasn't pointed at them."*
 > — WMO State of Climate in Africa, 2023
